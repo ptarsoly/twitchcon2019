@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+boto3.py
+boto3.pyc
+package-lock.json
+music.mp3
+out.mp4
+output.mp4
+rekognition.png
+speech.mp3
+dist/index.js
+dist/index.js.map
+__pycache__/boto3.cpython-37.pyc
+tsconfig.json
